@@ -16,7 +16,7 @@ public class MainActivity extends AppCompatActivity {
     byte skidka4=0;//скидка на сорочка
     float thing5=41;//цена туфли
     byte skidka5=32;//скидка на туфли
-    float summa=3;
+    float summa=312;
 
     private float price(){//подсчет стоимости гардероба
         float count=(thing1-thing1*skidka1/100)+(thing2-thing2*skidka2/100)+
